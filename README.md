@@ -32,3 +32,6 @@ Remove the stripe along the top of the side, make it a smooth tile similar to th
 
 Purpur block:
 Changed to a smooth tile instead of the + shape bricks 
+
+Podzol:
+Same texture on the sides as on the top
