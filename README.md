@@ -29,3 +29,6 @@ Revert to the discarded textures from previous versions.
 
 Smooth Sandstone (red and normal): 
 Remove the stripe along the top of the side, make it a smooth tile similar to the polished stone
+
+Purpur block:
+Changed to a smooth tile instead of the + shape bricks 
