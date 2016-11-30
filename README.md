@@ -29,3 +29,6 @@ Revert to the discarded textures from previous versions.
 
 Smooth Sandstone: 
 Remove the stripe along the top of the side, make it a smooth tile similar to the polished stone
+
+Sandstone: 
+removed stripe on top, made a bit more symmetrical
