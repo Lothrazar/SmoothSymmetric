@@ -35,3 +35,6 @@ Changed to a smooth tile instead of the + shape bricks
 
 Podzol:
 Same texture on the sides as on the top
+
+Hay Bale:
+The red straps are less saturated; a more muted brown-red 
