@@ -38,3 +38,6 @@ Same texture on the sides as on the top
 
 Hay Bale:
 The red straps are less saturated; a more muted brown-red 
+
+Birch Logs:
+The black spots are much lighter, so the block overall has less contrast and is more useable.
