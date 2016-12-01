@@ -1,5 +1,7 @@
-# SmoothSymmetric
+# Contrast & Symmetry
 A Minecraft Texture Pack
+
+https://minecraft.curseforge.com/projects/contrast-symmetry
 
 ===
 
