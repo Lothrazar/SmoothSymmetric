@@ -1,7 +1,12 @@
 # Contrast & Symmetry
 A Minecraft Texture Pack
 
+Project pages:
 https://minecraft.curseforge.com/projects/contrast-symmetry
+https://mods.curse.com/texture-packs/minecraft/250474-contrast-symmetry
+
+Latest Release Download:
+https://minecraft.curseforge.com/projects/contrast-symmetry/files/2351130
 
 ===
 
